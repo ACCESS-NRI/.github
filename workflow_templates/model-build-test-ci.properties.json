@@ -1,0 +1,5 @@
+{
+  "name": "Model Build Test Workflow"
+  "description": "Workflow that tests building a given model or model component using spack"
+  "iconName": "octicon tools"
+}
