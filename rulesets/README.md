@@ -10,6 +10,8 @@ Note that these rulesets can be edited after import, or more specific rulesets l
 
 ### Base Ruleset
 
+**File:** [base-ruleset.json](https://github.com/ACCESS-NRI/.github/blob/main/rulesets/base-ruleset.json)
+
 This ruleset contains a basic list of protections:
 
 Bypass List:
@@ -32,6 +34,8 @@ PR Rules:
 * Requires review from Code Owners where appropriate
 
 ### Stricter PR Ruleset
+
+**File:** [strict-pr-ruleset.json](https://github.com/ACCESS-NRI/.github/blob/main/rulesets/strict-pr-ruleset.json)
 
 All of the above, and:
 
